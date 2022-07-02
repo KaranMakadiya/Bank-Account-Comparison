@@ -54,8 +54,7 @@ public class BacC {
             }catch(InterruptedException e){
              e.printStackTrace();
            }
-          }
-         //System.out.println("\n  \t\t\t    _/\\_  Welcome to Bank Account Comparison _/\\_ ");
+          }         
          sleep();
          System.out.print("\n\n  -> Here your are LOG In with Guest mode");
          sleep();
@@ -67,7 +66,7 @@ public class BacC {
          System.out.print("\n  * ' In India we have many types of  Account. '  ");
          sleep();
          System.out.print("\n   -> Account like :  ");
-	sleep();
+	 sleep();
 	 System.out.print("\n   1) Saving Account ");
 	 sleep1();
 	 System.out.print("\n   2) Current Account ");
