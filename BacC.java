@@ -54,9 +54,7 @@ public class BacC {
             }catch(InterruptedException e){
              e.printStackTrace();
            }
-          }         
-         sleep();
-         System.out.print("\n\n  -> Here your are LOG In with Guest mode");
+          }        
          sleep();
          System.out.print("\n  -> In this program we will give you best advice for selection of Bank Account, like which types of account we can  open? and  which  bank is best to open an account in that Bank ");
          sleep();
